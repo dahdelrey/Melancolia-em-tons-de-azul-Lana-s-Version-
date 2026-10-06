@@ -1,0 +1,13 @@
+VERSÃO HTML PARA GITHUB PAGES
+
+Envie para o repositório do GitHub:
+- index.html
+- links.html (e outras páginas .html, se houver)
+- style.css
+- pasta img
+- .nojekyll
+
+Não precisa de app.py, Flask, Python ou requirements.txt.
+
+No GitHub:
+Settings > Pages > Deploy from a branch > main > /(root) > Save
